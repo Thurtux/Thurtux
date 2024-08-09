@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Arthur
 
 - 💡 Tenho 17 anos
-- 🧠 Experiência de 1 ano e 5 meses em programação
+- 🧠 Experiência de 1 ano e 8 meses em programação
 
 ---
 
