@@ -14,14 +14,14 @@ Hi! I'm Arthur, a **DECENTRALIZATION MAXI** and a **FULL STACK WEB3** developer 
 
 ### Github Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thurtux&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thurtux&layout=compact&theme=dark)
 
 ---
 
 ### Connect with Me 👤
 
-- 📍 **Location:** São Paulo, Brasil
+- 📝 **Location:** São Paulo, Brasil
 - ✉ **Email:** arthurdeveloperprime@gmail.com
 - 🔗 **Website:** [Seu Link Aqui]
 - 💍 **Twitter:** [Seu Twitter Aqui]
